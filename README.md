@@ -1,2 +1,2 @@
 # SynchronizationContexts
-My different multi-threading synchronization contexts
+My different multi-threading synchronization context imlementations.
